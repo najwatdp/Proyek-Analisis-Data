@@ -1,4 +1,4 @@
-# Proyek Analisis Data : sparkle:
+# Proyek Analisis Data 🚴
 ## Setup Environment - Anaconda
 conda create --name main-ds python=3.9  
 conda activate main-ds  
